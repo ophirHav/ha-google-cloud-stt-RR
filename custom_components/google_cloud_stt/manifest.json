@@ -1,9 +1,9 @@
 {
   "domain": "google_cloud_stt",
-  "name": "Google Cloud Speech-To-Text",
+  "name": "Google Cloud Speech-To-Text for RR",
   "codeowners": ["@me"],
-  "documentation": "https://github.com/chatziko/ha-google-cloud-stt",
-  "issue_tracker": "https://github.com/chatziko/ha-google-cloud-stt/issues",
+  "documentation": "https://github.com/ophirHav/ha-google-cloud-stt-RR",
+  "issue_tracker": "https://github.com/ophirHav/ha-google-cloud-stt-RR//issues",
   "iot_class": "cloud_push",
   "version": "0.3.2",
   "requirements": ["google-cloud-speech"],
